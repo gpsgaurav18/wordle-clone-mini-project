@@ -7,9 +7,9 @@ This project simulates a simplified version of the popular word-guessing game ca
 1. [Project Overview](#project-overview)
 2. [Setup Instructions](#setup-instructions)
 3. [Script Descriptions](#script-descriptions)
-    - [play_wordle.py : Main Game Logic](#play_wordle.py)
-    - [wordle.py : Wordle Class Definition](#wordle.py)
-    - [letter_state.py : LetterState Class Definition](#letter_state.py)
+    - [play_wordle.py : Main Game Logic](/script-descriptions/#play_wordle-main-game-logic)
+    - [wordle.py : Wordle Class Definition](/script-descriptions/#wordle-wordle-class-definition)
+    - [letter_state.py : LetterState Class Definition](/script-descriptions/#letter_state-letterstate-class-definition)
 
 ## Project Overview
 
@@ -44,7 +44,7 @@ This project simulates a simplified version of the popular word-guessing game ca
 
 ## Script Descriptions
 
-### play_wordle.py : Main Game Logic
+### play_wordle : Main Game Logic
 
 - **Filename**: `play_wordle.py`
 - **Description**: 
@@ -53,14 +53,14 @@ This project simulates a simplified version of the popular word-guessing game ca
     - Manages user input, validation, and feedback.
     - Determines game outcomes (success/failure).
 
-### wordle.py : Wordle Class Definition
+### wordle : Wordle Class Definition
 
 - **Filename**: `wordle.py`
 - **Description**: 
     - Defines the `Wordle` class responsible for managing the game state.
     - Manages attempts, checks for correct guesses, and calculates remaining attempts.
 
-### letter_state.py : LetterState Class Definition
+### letter_state : LetterState Class Definition
 
 - **Filename**: `letter_state.py`
 - **Description**: 
