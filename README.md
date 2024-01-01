@@ -7,9 +7,9 @@ This project simulates a simplified version of the popular word-guessing game ca
 1. [Project Overview](#project-overview)
 2. [Setup Instructions](#setup-instructions)
 3. [Script Descriptions](#script-descriptions)
-    - [play_wordle.py : Main Game Logic](/script-descriptions/#play_wordle-main-game-logic)
-    - [wordle.py : Wordle Class Definition](/script-descriptions/#wordle-wordle-class-definition)
-    - [letter_state.py : LetterState Class Definition](/script-descriptions/#letter_state-letterstate-class-definition)
+    - [play_wordle.py : Main Game Logic](https://github.com/gpsgaurav18/wordle-clone-mini-project?tab=readme-ov-file#play_wordle--main-game-logic)
+    - [wordle.py : Wordle Class Definition](https://github.com/gpsgaurav18/wordle-clone-mini-project?tab=readme-ov-file#wordle--wordle-class-definition)
+    - [letter_state.py : LetterState Class Definition](https://github.com/gpsgaurav18/wordle-clone-mini-project?tab=readme-ov-file#letter_state--letterstate-class-definition)
 
 ## Project Overview
 
