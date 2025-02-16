@@ -1,4 +1,4 @@
-# Wordle Clone Using Python
+# Wordle Using Python
 
 This project simulates a simplified version of the popular word-guessing game called Wordle, implemented in Python. The game utilizes terminal-based interactions and incorporates color-coded feedback to guide players in their attempts to guess a secret word.
 
